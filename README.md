@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h1>Hi, I'm Noah <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /></h1>
+        <h1>Hi, I'm Noah <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="45" height="45" /></h1>
         <h3>Sutent / Full-Stack dev</h3>
         <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200px" height="auto"/>
       </td>
@@ -16,7 +16,7 @@
   </table>
 </div>
 
-<h3 align="center"><br/>Languages and tools I work with</h3>
+<h3 align="center"><br/>Languages and tools I work with <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="45" height="auto"/></h3>
 <div align="center"><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />

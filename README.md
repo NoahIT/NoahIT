@@ -3,7 +3,7 @@
     <tr>
       <td align="center" width="50%">
         <h1>Hi, I'm Noah <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="45" height="45" /></h1>
-        <h3>Sutent / Full-Stack dev</h3>
+        <h3>Student / Full-Stack dev</h3>
         <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200px" height="auto"/>
       </td>
       <td align="center" width="50%">
